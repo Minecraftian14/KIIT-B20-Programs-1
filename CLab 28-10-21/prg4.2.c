@@ -1,4 +1,7 @@
-//Swapping numbers without third variable
+/*
+Q.4) Write a program in 'C' to initialize two integer variables and swap them
+II)Without using 3rd variable
+*/
 
 #include<stdio.h>
 

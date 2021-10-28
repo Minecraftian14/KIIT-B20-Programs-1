@@ -1,3 +1,8 @@
+/*
+Q.3) Write a program in 'C' to initialize a 3-digit integer and display its 1st 
+and last digit.
+*/
+
 #include<stdio.h>
 
 int main()

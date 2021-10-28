@@ -1,3 +1,9 @@
+/*
+Q.1) Write a program in 'C' to initialize two integer variables then perform division
+ operation and store the result in integer variable as well as float variable and show the result.
+ Also perform the type casting to get the exact result in floating point.
+*/
+
 #include<stdio.h>
 
 int main()

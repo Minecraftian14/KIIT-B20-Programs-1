@@ -1,4 +1,7 @@
-//Swapping numbers using third variable
+/*
+Q.5) Write a program in 'C' to initialize a 3-digit integer, then find and display its reverse.
+(using only operators)
+*/
 
 #include<stdio.h>
 

@@ -1,3 +1,8 @@
+/*
+Q.6) Write a program in 'C' to initialize a value to an integer variable as centimeters 
+and convert it into KM, meters and centimeters. (using only operators)
+*/
+
 #include<stdio.h>
 
 int main()
