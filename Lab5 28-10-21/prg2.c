@@ -12,8 +12,9 @@ int main()
     int b=5;
     int c=7;
     int d=9;
-    int result;
-    result = a++;b--;c++;d--;
-    printf("Result: %d\n",result);
+    int x;
+    printf("a = %d, b = %d, c = %d, d = %d\nx = %d\n",a,b,c,d,x);
+    x = --a + ++b - c++ - d--;
+    printf("a = %d, b = %d, c = %d, d = %d\nx = %d\n",a,b,c,d,x);
     return 0;
 }
