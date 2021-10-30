@@ -1,3 +1,8 @@
+/*
+Q.5) Write a program in 'C' to input radius value then calculate area and circumference 
+of a circle, where ‘pi’ value is specified using macro. 
+*/
+
 #include<stdio.h>
 
 #define pi 3.14

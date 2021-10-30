@@ -1,3 +1,8 @@
+/*
+Q.7) Write a program in 'C' to input two integers and add that two integers without 
+using ‘+’ operator.
+*/
+
 #include<stdio.h>
 
 #define add(x,y) x+y

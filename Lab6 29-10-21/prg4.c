@@ -1,3 +1,7 @@
+/*
+Q.4) Write a program in 'C' to find out square and cube of a number using macro.
+*/
+
 #include<stdio.h>
 
 #define sqr(a) (a)*(a)

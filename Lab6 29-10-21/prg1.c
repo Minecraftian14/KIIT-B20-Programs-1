@@ -1,3 +1,7 @@
+/*
+Q.1) Write a program in 'C' to input 3-sides of a triangle and find out area of the  triangle.
+*/
+
 #include<stdio.h>
 #include<math.h>
 
