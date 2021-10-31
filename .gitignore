@@ -1,5 +1,5 @@
 .vscode/
-ignorerd_dir/
+/ignorerd_dir/
 *.json
 *.exe
 *.o
