@@ -4,6 +4,6 @@ int main()
 {
     int a = 5;
     int b = 6;
-    printf("int a = %d & int b = %d", a, b);
+    printf("int a = %d & int b = %d\n", a, b);
     return 0;
 }
