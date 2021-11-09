@@ -1,6 +1,6 @@
 # KIIT-B20-Programs
 
-This repo contains the programs given to **group 1** of batch **B20** 2021-25
+This repo contains the programs given to <b><span style = "color:#ff7738">Group 1</span></b> of batch <b><span style = "color:#ff7738">B20</span></b> 2021-25
 
 
 ---
