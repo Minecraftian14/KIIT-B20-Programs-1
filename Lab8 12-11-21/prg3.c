@@ -1,3 +1,8 @@
+/*
+Q.3)Write a programme to display 1 if two lines in 2-D are perpendicular 
+    to each other else any other integer value. (m1 x m2 x-1=1)
+*/
+
 #include<stdio.h>
 
 int main(){

@@ -1,3 +1,6 @@
+/*
+Q.4)Given three inputs (a, b, c), display 1 for isosceles triangle, otherwise display 0.
+*/
 #include<stdio.h>
 #include<math.h>
 

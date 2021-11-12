@@ -1,3 +1,7 @@
+/*
+Q.5)Write a programme to display 1 if two lines in 2-D are parallel to each other else 0.
+    (m1 == m2)
+*/
 #include<stdio.h>
 
 int main(){
