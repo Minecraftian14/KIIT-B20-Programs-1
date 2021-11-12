@@ -1,3 +1,6 @@
+/*
+Q.2) Write a program in 'C' to find velocity and distance covered 
+*/
 #include<stdio.h>
 
 #define g 9.8

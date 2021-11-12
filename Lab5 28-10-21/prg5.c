@@ -10,7 +10,7 @@ int main()
     int a = 475;
     int n1,n2,n3, rev;    
 
-    printf("The original Number is: %d", a);
+    printf("The original Number is: %d\n", a);
 
     n1 = a / 100;
     n2 = (a % 100) / 10;

@@ -1,3 +1,6 @@
+/*
+Q.2) Write a program in 'C' to add 2 numbers.
+*/
 #include<stdio.h>
 
 int main()

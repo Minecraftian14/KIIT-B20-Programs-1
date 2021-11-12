@@ -1,5 +1,6 @@
 /*
-Q.2)WAP to display the Time Period of a simple pendulum for different length of the thread i.e. length = 10m, 20n , 30m, 40m, 50m in the following format:
+Q.2)WAP to display the Time Period of a simple pendulum for different length of the thread 
+    i.e. length = 10m, 20n , 30m, 40m, 50m in the following format:
 
 (T = 2xpix * sqrt(l / g))
 

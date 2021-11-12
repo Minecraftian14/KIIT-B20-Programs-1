@@ -1,3 +1,6 @@
+/*
+Q.4) Write a program in 'C' to find the domain of the given function
+*/
 #include<stdio.h>
 //f(x) = x^2 + 3
 #define f(x) (x)*(x)+3

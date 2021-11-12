@@ -1,3 +1,6 @@
+/*
+Q.1) Write a program in 'C' to fint the slope with two given
+*/
 #include<stdio.h>
 
 int main(){

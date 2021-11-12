@@ -1,5 +1,6 @@
 /*
-Q.2) Write a program in 'C' to input marks in 5-subjects, then find out its average mark.
+Q.2) Write a program in 'C' to input marks in 5-subjects, then find out 
+its average mark.
 */
 
 #include<stdio.h>

@@ -1,3 +1,6 @@
+/*
+Q.3) Write a program in 'C' to add, sub, mult and div 2 numbers.
+*/
 #include<stdio.h>
 
 int main()

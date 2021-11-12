@@ -1,3 +1,6 @@
+/*
+Q.3) Write a program in 'C' to find equivalent resistance
+*/
 #include<stdio.h>
 
 int main(){

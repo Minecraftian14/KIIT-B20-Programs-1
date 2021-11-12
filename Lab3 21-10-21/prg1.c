@@ -1,6 +1,6 @@
 /*
-Q.1) Write a program in 'C' to print the sentence “OUR UNIVERSITY IS KING OF” and a pattern of word
-“KIIT” (in * sign) using printf function. 
+Q.1) Write a program in 'C' to print the sentence “OUR UNIVERSITY IS KING OF” and a 
+pattern of word “KIIT” (in * sign) using printf function. 
 */
 
 #include<stdio.h>

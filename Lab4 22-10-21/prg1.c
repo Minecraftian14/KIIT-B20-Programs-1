@@ -1,3 +1,7 @@
+/*
+Q.1) Write a program in 'C' to initialise 2 numbers.
+*/
+
 #include<stdio.h>
 
 int main()
