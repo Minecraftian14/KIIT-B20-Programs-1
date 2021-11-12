@@ -6,7 +6,7 @@
 int main(){
     float a,b,c;
 
-    printf("Enter the values of sides a, b and c = ");
+    printf("Enter the values of sides of isosceles  = ");
     scanf("%f %f %f", &a, &b, &c);
 
     int t = a==b || b==c || c==a;

@@ -1,12 +1,14 @@
 #include<stdio.h>
 
+#define s(x) (x)*(x)
+
 int main(){
-    float m1,m2;
+    float a,b,c;
 
-    printf("Enter the values of m1 and m2 = ");
-    scanf("%f %f", &m1, &m2);
+    printf("Enter the values of sides a, b and c = ");
+    scanf("%f %f %f", &a, &b, &c);
 
-    int t = m1 == m2;
+    int t = ((a+b)>c) && ((c+b)>a) && ((a+c)>b);
 
     printf("%d", t);
     return 0;

@@ -1,26 +1,16 @@
 #include<stdio.h>
 #include<math.h>
 
-#define g 9.8
-#define pi 3.14
+#define s(x) (x)*(x)
 
 int main(){
-    int l = 10;
-    float t;
-    printf("\nLength             Time Perdiod\n");
-    t = 2 * pi * sqrt(l/g);
-    printf("%d                 %.2f\n",l,t);
-    l = 20;
-    t = 2 * pi * sqrt(l/g);
-    printf("%d                 %.2f\n",l,t);
-    l = 30;
-    t = 2 * pi * sqrt(l/g);
-    printf("%d                 %.2f\n",l,t);
-    l = 40;
-    t = 2 * pi * sqrt(l/g);
-    printf("%d                 %.2f\n",l,t);
-    l = 50;
-    t = 2 * pi * sqrt(l/g);
-    printf("%d                 %.2f\n",l,t);
+    float a,b,c;
+
+    printf("Enter the values of sides a, b and c = ");
+    scanf("%f %f %f", &a, &b, &c);
+
+    int t = (a==sqrt(s(b)+s(c))) || (b==sqrt(s(a)+s(c))) || (c==sqrt(s(b)+s(a)));
+
+    printf("%d", t);
     return 0;
 }
