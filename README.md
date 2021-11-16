@@ -1,6 +1,6 @@
 # KIIT-B20-Programs
 
-This repo contains the programs given to <b>Group 1</b> of batch <b>B20</b> 2021-25
+This repo contains the programs given to <b>Group 1</b>(Breakout Room 3) of batch <b>B20</b> 2021-25
 
 
 ---
