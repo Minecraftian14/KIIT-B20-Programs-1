@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-#define s(x) (x)*(x)
-
 int main(){
     int a,b,c,d, max;
     printf("Enter 3 Integers: ");
