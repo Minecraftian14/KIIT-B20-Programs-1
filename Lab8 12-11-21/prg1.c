@@ -1,9 +1,7 @@
-#include<stdio.h>
-
 /*
 Q.1)Given three inputs (a,b,c) display 1 if those are sides of a triangle else display 0 on the screen
 */
-
+#include<stdio.h>
 #define s(x) (x)*(x)
 
 int main(){
