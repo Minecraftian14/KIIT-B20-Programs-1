@@ -99,7 +99,37 @@ Q.7) Write a program in 'C' to input two integers and add that two integers with
 using ‘+’ operator.
 ```
 ### [Lab 7](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab7%2011-11-21)
+```
+Q.1) Write a program in 'C' to fint the slope with two given
+Q.2) Write a program in 'C' to find velocity and distance covered
+Q.3) Write a program in 'C' to find equivalent resistance in series and parallel
+Q.4) Write a program in 'C' to find the domain of the given function
+```
 ### [Lab 8](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab8%2012-11-21)
+```
+Q.1)Given three inputs (a,b,c) display 1 if those are sides of a triangle else display 0 on the screen
+Q.2)Given three  inputs (a,b,c) display sum of all sides if those are 
+    sides of a triangle else displays 0 the screen
+Q.3)Write a programme to display 1 if two lines in 2-D are perpendicular 
+    to each other else any other integer value. (m1 x m2 x-1=1)
+Q.4)Given three inputs (a, b, c), display 1 for isosceles triangle, otherwise display 0.
+Q.5)Write a programme to display 1 if two lines in 2-D are parallel to each other else 0.
+    (m1 == m2)
+Q.6)Given three inputs (a, b, c), display 1 if those are sides of a right angle triangle 
+else display 0 on the screen. (hxh == pxp+bx b)
+Q.2)WAP to display the Time Period of a simple pendulum for different length of the thread 
+    i.e. length = 10m, 20n , 30m, 40m, 50m in the following format:
+
+(T = 2xpix * sqrt(l / g))
+
+Length          Time Period
+
+10              t1
+20              t2
+30              t3
+40              t4
+50              t5
+```
 
 
 ---
