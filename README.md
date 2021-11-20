@@ -117,7 +117,7 @@ Q.5)Write a programme to display 1 if two lines in 2-D are parallel to each othe
     (m1 == m2)
 Q.6)Given three inputs (a, b, c), display 1 if those are sides of a right angle triangle 
 else display 0 on the screen. (hxh == pxp+bx b)
-Q.2)WAP to display the Time Period of a simple pendulum for different length of the thread 
+Q.7)WAP to display the Time Period of a simple pendulum for different length of the thread 
     i.e. length = 10m, 20n , 30m, 40m, 50m in the following format:
 
 (T = 2xpix * sqrt(l / g))
@@ -131,6 +131,60 @@ Length          Time Period
 50              t5
 ```
 
+### [Lab 9](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab9%2019-11-21)
+```
+Q1 WAP to give 60 mark grace if age is below 50 else give 40 marks grace
+i.e. all will get atleast 40mark grace additional 20 mark will be given if the age is
+below 50.
+
+Q2 WAP to print KIIT student if you are in class 1 to 12 else print
+KIT University student.
+
+Q3 WAP to display whether the wheatstone bridge is balanced or not,
+if not find out value of the variable resistance to balance the bridge
+
+Q4 Write a program to print the largest among three numbers (a, b, c)
+
+Q5 If basic salary is < Rs. 1500, then HRA = 10% and DA = 40% of basic salary else
+HRA
+= Rs.500
+and DA
+= 50% of basic salary. Find his gross salary.
+
+Q6 Given 3 points ((x1, y1), (×2, y2), (×3, y3)) in 2-D, display whether they form
+triangle or not
+
+Q7 Write the program to display whether a vehicle moves with cons
+velocity/acceleration/deceleration.
+Input: a
+
+Q8 Write the program to display the position, size and type of images
+formed by a concave mirror.
+
+Q9 User name == 'a' Password == 12345. Check whether User name
+and Password are correct or not
+
+Q10 Declaring grade of a student: First (>59), Second (>49),
+Third(>39), Fail(<40); Subjects: phy, chem, math, eng, bio
+
+Q11 Given three inputs a, b, c, check whether they are
+sides of a triangle or not
+
+Q12 Enter score of 11 cricket players and find the average score
+
+Q13 score of 10 cricket players and count number of players
+century. Discard the -ve score if you enter by mistake.
+
+Q.14) Write a program in ‘C’ to find the roots of a quadratic equation ax2+bx+c=0 using 
+    if-else statement.
+Q.15) Write a program in ‘C’ to input a 3-digit number and check whether it is palindrome 
+    number or not. (Without using loop)
+Q.16) Write a program in ‘C’ to read an alphabet in any case from the user and convert 
+    it into opposite case. (Lower to uppercase or upper to lower case)
+Q.17) Write a program in ‘C’ to design a simple calculator (+, -, *, /, %), where 
+    it takes two integer operands and one operator form the user, performs the operation 
+    and then prints the result. (use if…else if…else)
+```
 
 ---
 
