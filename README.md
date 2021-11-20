@@ -184,6 +184,10 @@ Q.16) Write a program in ‘C’ to read an alphabet in any case from the user a
 Q.17) Write a program in ‘C’ to design a simple calculator (+, -, *, /, %), where 
     it takes two integer operands and one operator form the user, performs the operation 
     and then prints the result. (use if…else if…else)
+Q.18) Write a program in ‘C’ to input any three integers distinct and display the biggest 
+    of three integers using ternary operator.
+Q.19) Write a program in ‘C’ to input any three integers distinct then find and display the 
+    middle value of three integers using ternary operator.
 ```
 
 ---
