@@ -104,6 +104,8 @@ Q.1) Write a program in 'C' to fint the slope with two given
 Q.2) Write a program in 'C' to find velocity and distance covered
 Q.3) Write a program in 'C' to find equivalent resistance in series and parallel
 Q.4) Write a program in 'C' to find the domain of the given function
+Q.5) WAP to find out the secondary voltage of a transformer if primary voltage, turns of primary 
+     and secondary voltage are given (input)
 ```
 ### [Lab 8](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab8%2012-11-21)
 ```

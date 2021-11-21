@@ -1,19 +1,21 @@
-/*
-Q.3) Write a program in 'C' to find equivalent resistance
+/*Q.5) WAP to find out the secondary voltage of a transformer if primary voltage, +
+turns of primary and secondary voltage are given (input).
 */
-#include<stdio.h>
+#include <stdio.h>
+int main()
+{
+    int pt,st,pv;
+    float sv;
+    printf("Enter value of primary volatge: ");
+    scanf("%d", &pv);
 
-int main(){
-    float a,b,c;
+    printf("\nEnter number of primary turns: ");
+    scanf("%d",&pt);
 
-    printf("Enter 3 values of resistors:");
-    scanf("%f %f %f", &a,&b,&c);
+    printf("\nEnter number of secondary turns: ");
+    scanf("%d",&st);
 
-    float ser = a + b + c;
-    printf("The equivalent resistance in series is: %f\n", ser);
-
-    float par = 1/((1/a)+(1/b)+(1/c));
-    printf("The equivalent resistance in parallel is: %f\n", par);
-
+    sv=((float)pv*st)/pt;
+    printf("\n Secondary coltage comes out to be: %f",sv);
     return 0;
 }
