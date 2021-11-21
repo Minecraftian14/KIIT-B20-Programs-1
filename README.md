@@ -60,7 +60,7 @@ Q.3) Write a program in 'C' to print the following pattern.
 ```
 ### [Lab 4](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab4%2022-10-21)
 ```
-Q.1) Write a program in 'C' to initialise 2 numbers.
+Q.1) Write a program in 'C' to initialize 2 numbers.
 Q.2) Write a program in 'C' to add 2 numbers.
 Q.3) Write a program in 'C' to add, sub, mult and div 2 numbers.
 ```
@@ -93,14 +93,14 @@ velocity & time then calculate the final velocity and total distance.
 Q.4) Write a program in 'C' to find out square and cube of a number using macro.
 Q.5) Write a program in 'C' to input radius value then calculate area and circumference 
 of a circle, where ‘pi’ value is specified using macro.
-Q.6) Write a program in 'C' yel input the temperature in Fahrenheit and convert it inyel 
+Q.6) Write a program in 'C' to input the temperature in Fahrenheit and convert it into 
 Celsius, and vice-versa.
 Q.7) Write a program in 'C' to input two integers and add that two integers without 
 using ‘+’ operator.
 ```
 ### [Lab 7](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab7%2011-11-21)
 ```
-Q.1) Write a program in 'C' to fint the slope with two given
+Q.1) Write a program in 'C' to find the slope with two given
 Q.2) Write a program in 'C' to find velocity and distance covered
 Q.3) Write a program in 'C' to find equivalent resistance in series and parallel
 Q.4) Write a program in 'C' to find the domain of the given function
@@ -136,7 +136,7 @@ Length          Time Period
 ### [Lab 9](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab9%2019-11-21)
 ```
 Q1 WAP to give 60 mark grace if age is below 50 else give 40 marks grace
-i.e. all will get atleast 40mark grace additional 20 mark will be given if the age is
+i.e. all will get at least 40mark grace additional 20 mark will be given if the age is
 below 50.
 
 Q2 WAP to print KIIT student if you are in class 1 to 12 else print
@@ -176,7 +176,10 @@ Q12 Enter score of 11 cricket players and find the average score
 
 Q13 score of 10 cricket players and count number of players
 century. Discard the -ve score if you enter by mistake.
-
+```
+### [Lab 10](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab9%2019-11-21)
+Continuation of Lab 9
+```
 Q.14) Write a program in ‘C’ to find the roots of a quadratic equation ax2+bx+c=0 using 
     if-else statement.
 Q.15) Write a program in ‘C’ to input a 3-digit number and check whether it is palindrome 
