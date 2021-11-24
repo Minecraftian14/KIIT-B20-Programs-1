@@ -1,13 +1,13 @@
 # KIIT-B20-Programs
 
-This repo contains the programs given to <b>Group 1</b>(Breakout Room 3) of batch <b>B20</b> 2021-25
+This repo contains the programs given to <b>Group 1</b> (Breakout Room 3) of batch <b>B20</b> 2021-25
 
 
 ---
 ### Note:
-* Programs here may be incorrect or may use a different logic
-* All programs may not have the given question
-* If there is a problem in the code feel free to create an issue or contact me
+* Programs here may be incorrect or may use a different logic.
+* All programs may not have the given question.
+* If there is a problem in the code feel free to create an issue or contact me.
 
 
 ##### Questions in the code will be in the first line:
@@ -22,6 +22,7 @@ Q.3) Write a program in 'C' to initialize a 3-digit integer and display its 1st
 
 ## Questions:
 ### [Lab 2](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab2%2008-10-21)
+#### Assignment 1 - 8th October 2021
 
 ```
 Q.1) Write a program in 'C' to print alphabets using printf function.
@@ -42,7 +43,10 @@ Q.5) Write a program in 'C' to print the given pattern using printf function.
  * * * * *
 Q.6) Write a program in 'C' to print the pattern of word KIIT (in * sign) using printf function.
 ```
+
 ### [Lab 3](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab3%2021-10-21)
+#### Assignment 2 - 21st October 2021
+
 ```
 Q.1) Write a program in 'C' to print the sentence “OUR UNIVERSITY IS KING OF” and a 
  pattern of word “KIIT” (in * sign) using printf function.
@@ -58,13 +62,19 @@ Q.3) Write a program in 'C' to print the following pattern.
  ***
  *
 ```
+
 ### [Lab 4](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab4%2022-10-21)
+#### Assignment 3 - 22nd October 2021
+
 ```
 Q.1) Write a program in 'C' to initialize 2 numbers.
 Q.2) Write a program in 'C' to add 2 numbers.
 Q.3) Write a program in 'C' to add, sub, mult and div 2 numbers.
 ```
+
 ### [Lab 5](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab5%2028-10-21)
+#### Assignment 4 - 28th October 2021
+
 ```
 Q.1) Write a program in 'C' to initialize two integer variables then perform division
  operation and store the result in integer variable as well as float variable and show 
@@ -83,7 +93,10 @@ Q.5) Write a program in 'C' to initialize a 3-digit integer, then find and displ
 Q.6) Write a program in 'C' to initialize a value to an integer variable as centimeters 
 and convert it into KM, meters and centimeters. (using only operators)
 ```
+
 ### [Lab 6](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab6%2029-10-21)
+#### Assignment 5 - 29th October 2021
+
 ```
 Q.1) Write a program in 'C' to input 3-sides of a triangle and find out area of the  triangle.
 Q.2) Write a program in 'C' to input marks in 5-subjects, then find out 
@@ -98,7 +111,10 @@ Celsius, and vice-versa.
 Q.7) Write a program in 'C' to input two integers and add that two integers without 
 using ‘+’ operator.
 ```
+
 ### [Lab 7](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab7%2011-11-21)
+#### Assignment 6 - 11th November 2021
+
 ```
 Q.1) Write a program in 'C' to find the slope with two given
 Q.2) Write a program in 'C' to find velocity and distance covered
@@ -107,7 +123,10 @@ Q.4) Write a program in 'C' to find the domain of the given function
 Q.5) WAP to find out the secondary voltage of a transformer if primary voltage, turns of primary 
      and secondary voltage are given (input)
 ```
+
 ### [Lab 8](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab8%2012-11-21)
+#### Assignment 7 - 12th November 2021
+
 ```
 Q.1)Given three inputs (a,b,c) display 1 if those are sides of a triangle else display 0 on the screen
 Q.2)Given three  inputs (a,b,c) display sum of all sides if those are 
@@ -134,6 +153,8 @@ Length          Time Period
 ```
 
 ### [Lab 9](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab9%2019-11-21)
+#### Assignment 8 - 18th November 2021
+
 ```
 Q1 WAP to give 60 mark grace if age is below 50 else give 40 marks grace
 i.e. all will get at least 40mark grace additional 20 mark will be given if the age is
@@ -177,8 +198,11 @@ Q12 Enter score of 11 cricket players and find the average score
 Q13 score of 10 cricket players and count number of players
 century. Discard the -ve score if you enter by mistake.
 ```
+
 ### [Lab 10](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab9%2019-11-21)
-Continuation of Lab 9
+#### Assignment 9 - 19th November 2021
+#### Continuation of Lab 9
+
 ```
 Q.14) Write a program in ‘C’ to find the roots of a quadratic equation ax2+bx+c=0 using 
     if-else statement.
