@@ -200,7 +200,7 @@ century. Discard the -ve score if you enter by mistake.
 ```
 
 ### [Lab 10](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab9%2019-11-21)
-#### Assignment 9 - 19th November 2021
+#### Assignment 9 - 20th November 2021
 #### Continuation of Lab 9
 
 ```
