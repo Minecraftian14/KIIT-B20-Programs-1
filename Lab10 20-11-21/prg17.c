@@ -8,7 +8,7 @@ int main()
 	scanf("%d %d",&a,&b);
 	printf("Enter the operation to be initiated: ");
 	getchar();
-	scanf("%c",&op);
+	scanf(" %c",&op);
 	if (op=='+')
 		printf("%d\n",a+b);
 	else if (op=='-')
