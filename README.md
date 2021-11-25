@@ -219,6 +219,16 @@ Q.19) Write a program in ‘C’ to input any three integers distinct then find 
     middle value of three integers using ternary operator.
 ```
 
+### [Lab 11](#)
+#### Assignment NA - NA
+```
+Q.1) Write a program in 'C' to print 1 to 9 and 9 to 1 using single while loop.
+Q.2) Enter 10 numbers from k/b and count number of odd numbers
+     and find their sum (odd numbers)
+Q.3) Display time period of a simple pendulum for different values of
+     lengths starting from 10 with an incremental length of 10.
+Q.4) Display whether a number is prime or not (use break statement)
+```
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
