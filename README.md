@@ -228,6 +228,13 @@ Q.2) Enter 10 numbers from k/b and count number of odd numbers
 Q.3) Display time period of a simple pendulum for different values of
      lengths starting from 10 with an incremental length of 10.
 Q.4) Display whether a number is prime or not (use break statement)
+Q.5) Write a program in 'C' to print multiplication table of 'n' in proper format.
+Q.6) Write a program in 'C' to calculate the following sum series and display the result:
+     S=1/2 + 1/3 + 1/4 + .... 1/n
+Q.7) Write a program in 'C' to calculate the following product series and display the result:
+     F=1*2*3*..... *n
+Q.8) Write a program in 'C' to calculate the following sum series and display the result:
+     S=1/n + 1/n-2 + 1/n-4 + .... + 1/0
 ```
 ---
 
