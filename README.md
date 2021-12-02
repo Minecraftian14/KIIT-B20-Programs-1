@@ -219,7 +219,7 @@ Q.19) Write a program in ‘C’ to input any three integers distinct then find 
     middle value of three integers using ternary operator.
 ```
 
-### [Lab 11](#)
+### [Lab 11](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab11 25-11-21)
 #### Assignment NA - NA
 ```
 Q.1) Write a program in 'C' to print 1 to 9 and 9 to 1 using single while loop.
@@ -235,6 +235,61 @@ Q.7) Write a program in 'C' to calculate the following product series and displa
      F=1*2*3*..... *n
 Q.8) Write a program in 'C' to calculate the following sum series and display the result:
      S=1/n + 1/n-2 + 1/n-4 + .... + 1/0
+```
+### [Lab 12](#)
+#### Assignment NA - NA
+```
+Q.1) Pattern Generation using loop:
+        $        $
+       $$$      $$$
+      $$$$$    $$$$$
+     $$$$$$$  $$$$$$$
+    $$$$$$$$$$$$$$$$$$
+Q.2)    1
+       222
+      33333
+     4444444
+    555555555  (x3)
+     4444444
+      33333
+       222
+        1
+Q.3)$        
+    $$$      
+    $$$$$      
+    $$$$$$$  
+    $$$$$$$$$  (x3)
+    $$$$$$$
+    $$$$$
+    $$$
+    $
+Q.4)
+    AAAAAAAAA
+    AAAAAAA
+    AAAAA      (x3)
+    AAA
+    A
+Q.5)Find the reverse of a number and check if its a palindrome or not.
+Q.6)WAP to print the following pattern for n rows. Ex. for n=6 rows
+    1
+    0 1
+    1 0 1
+    0 1 0 1
+    1 0 1 0 1
+    0 1 0 1 0 1
+Q.7) WAP to print the following pattern for n rows. Ex. for n=5 rows
+    1
+    2 1
+    1 2 3
+    4 3 2 1
+    1 2 3 4 5
+Q.8) Write a program in ‘C’ to generate the pascal triangle pyramid of numbers for a given number.
+Ex. for number 4
+	    1
+       1 1
+      1 2 1
+     1 3 3 1
+    1 4 6 4 1
 ```
 ---
 
