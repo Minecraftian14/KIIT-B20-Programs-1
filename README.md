@@ -317,7 +317,7 @@ Q.6)WAP to find the factorial value of any number entered through the
 keyboard
 Q.7)WAP to print all the ASCII values and their equivalent characters
 using a while loop. The ASCII values vary from 0 to 255.
-Q.8)WAP to find the octal equivalent of the entered number.
+Q.8)WAP to find the Octal equivalent of the entered number.
 ```
 ---
 
