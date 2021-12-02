@@ -291,6 +291,34 @@ Ex. for number 4
      1 3 3 1
     1 4 6 4 1
 ```
+### [Lab 13](#)
+#### Assignment NA - NA
+```
+Q.1)WAP for a matchstick game being played between the computer and a
+user. Your program should ensure that the computer always wins.
+Rules for the game are as follows:
+There are 21 matchsticks.
+The computer asks the player to pick 1, 2, 3, or 4 matchsticks.
+After the person picks, the computer does its picking.
+Whoever is forced to pick up the last matchstick loses the game.
+Q.2)WAP to print all prime numbers from 1 to 300.
+Q.3)Write a menu driven program which has following options:
+1. Factorial of a number.
+2. Prime or not
+3. Odd or even
+4. Exit
+
+Q.4)WAP to calculate overtime pay of 10 employees. Overtime is paid at
+the rate of Rs. 12.00 per hour for every hour worked above 40 hours.
+Assume that employees do not work for fractional part of an hour.
+Q.5)Two numbers are entered through the keyboard. WAP to find the
+value of one number raised to the power of another.
+Q.6)WAP to find the factorial value of any number entered through the
+keyboard
+Q.7)WAP to print all the ASCII values and their equivalent characters
+using a while loop. The ASCII values vary from 0 to 255.
+Q.8)WAP to find the octal equivalent of the entered number.
+```
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
