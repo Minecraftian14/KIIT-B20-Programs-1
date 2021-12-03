@@ -1,8 +1,10 @@
 #include<stdio.h>
+
 float sum(float a,float b){
     float temp = a+b;
     return temp;
 }
+
 int main(){
     float a,b;
     printf("Enter the first number:");
