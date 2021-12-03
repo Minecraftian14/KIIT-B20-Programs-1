@@ -321,6 +321,14 @@ Q.8)WAP to find the Octal equivalent of the entered number.
 Q.9)WAP to enter numbers till the user wants and at the end display the 
     count of positive, negative and zeros.
 ```
+
+### [Lab 14](#)
+#### Assignment NA - NA
+```
+Q.1)Write a function to print "=" n times on the screen.
+Q.2)Write a function to display a character ch, n times on the screen.
+Q.3)Write a function t convert lower case to UPPER CASE.
+```
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
