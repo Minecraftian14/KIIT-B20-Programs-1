@@ -3,7 +3,6 @@ void out(int a,char ch){
     for(int i=0;i<a;i++){
         printf("%c",ch);
     }
-    return;
 }
 int main(){
     int n;

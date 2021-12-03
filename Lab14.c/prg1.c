@@ -3,7 +3,6 @@ void out(int a){
     for(int i=0;i<a;i++){
         printf("=");
     }
-    return;
 }
 int main(){
     int n;
