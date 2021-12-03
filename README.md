@@ -325,9 +325,12 @@ Q.9)WAP to enter numbers till the user wants and at the end display the
 ### [Lab 14](#)
 #### Assignment NA - NA
 ```
-Q.1)Write a function to print "=" n times on the screen.
-Q.2)Write a function to display a character ch, n times on the screen.
-Q.3)Write a function t convert lower case to UPPER CASE.
+Q.1) Write a function to print "=" n times on the screen.
+Q.2) Write a function to display a character ch, n times on the screen.
+Q.3) Write a function t convert lower case to UPPER CASE.
+Q.4) Write a program in 'C' to find out sum of two float numbers using user-defined function. 
+Q.5) Write a program in 'C' to print following number series using user-defined function:
+     1, 2, 3......, n.
 ```
 ---
 
