@@ -331,6 +331,7 @@ Q.3) Write a function t convert lower case to UPPER CASE.
 Q.4) Write a program in 'C' to find out sum of two float numbers using user-defined function. 
 Q.5) Write a program in 'C' to print following number series using user-defined function:
      1, 2, 3......, n.
+Q.6) Write a program in 'C' to find out factorial of a number using user-defined function.
 ```
 ---
 
