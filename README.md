@@ -220,7 +220,7 @@ Q.19) Write a program in ‘C’ to input any three integers distinct then find 
 ```
 
 ### [Lab 11](https://github.com/HaxnovR/KIIT-B20-Programs/tree/main/Lab11 25-11-21)
-#### Assignment NA - NA
+#### Assignment 10 - 25th November 2021
 ```
 Q.1) Write a program in 'C' to print 1 to 9 and 9 to 1 using single while loop.
 Q.2) Enter 10 numbers from k/b and count number of odd numbers
@@ -237,7 +237,7 @@ Q.8) Write a program in 'C' to calculate the following sum series and display th
      S=1/n + 1/n-2 + 1/n-4 + .... + 1/0
 ```
 ### [Lab 12](#)
-#### Assignment NA - NA
+#### Assignment 11 - 26th November 2021
 ```
 Q.1) Pattern Generation using loop:
         $        $
@@ -292,7 +292,7 @@ Ex. for number 4
     1 4 6 4 1
 ```
 ### [Lab 13](#)
-#### Assignment NA - NA
+#### Assignment NA - 2nd December 2021
 ```
 Q.1)WAP for a matchstick game being played between the computer and a
     user. Your program should ensure that the computer always wins.
@@ -323,7 +323,7 @@ Q.9)WAP to enter numbers till the user wants and at the end display the
 ```
 
 ### [Lab 14](#)
-#### Assignment NA - NA
+#### Assignment NA - 3rd December 2021
 ```
 Q.1) Write a function to print "=" n times on the screen.
 Q.2) Write a function to display a character ch, n times on the screen.
