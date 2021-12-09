@@ -22,6 +22,12 @@ int main(){
         for (int k= 1; k <= num; k++){  
             printf(red"%d"end,x);  
         }
+        for (int j = 1; j <= s; j++){  
+            printf("  ");
+        }
+        for (int k= 1; k <= num; k++){  
+            printf("%d",x);  
+        }
         if(s > i){  
             s -= 1;  
             num = num+2;

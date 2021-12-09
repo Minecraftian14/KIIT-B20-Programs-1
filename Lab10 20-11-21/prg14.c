@@ -3,7 +3,7 @@
 
 void main(){
     float a,b,c,r1,r2,d;
-    printf("Enter the values of a b c");
+    printf("Enter the values of a b c : ");
     scanf("%f %f %f", &a, &b, &c);
     d = b*b - 4*a*c;
     if (d>0){

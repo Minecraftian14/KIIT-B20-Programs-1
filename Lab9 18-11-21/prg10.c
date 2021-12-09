@@ -16,10 +16,10 @@ int main(){
     if(avg>59){
         printf("First");
     }
-    if(avg>49){
+    else if(avg>49){
         printf("Second");
     }
-    if(avg>39){
+    else if(avg>39){
         printf("Third");
     }
     else{

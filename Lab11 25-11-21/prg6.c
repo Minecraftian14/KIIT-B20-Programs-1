@@ -3,11 +3,12 @@
 
 #include<stdio.h>
 int main(){
-    int n;
+    float n, sum;
     printf("Enter a number: ");
-    scanf("%d",&n);
-    for (int i = 1; i < 11; i++){
-        printf("%d x %d = %d\n",n,i,n*i);
+    scanf("%f",&n);
+    for (int i = 1; i <= n; i++){
+        sum += 1/i;
     }
+    printf("SUM = %f",sum);
     return 0;
 }

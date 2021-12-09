@@ -1,4 +1,4 @@
-/*find sum*/
+/*find odd*/
 #include<stdio.h>
 int main(){
     int n;
