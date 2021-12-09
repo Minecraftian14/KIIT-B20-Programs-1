@@ -334,6 +334,20 @@ Q.5) Write a program in 'C' to print following number series using user-defined 
 Q.6) Write a program in 'C' to find out factorial of a number using user-defined function.
 Q.7) Write a program in 'C' to find out 'a' to the power 'b' using user-defined function.
 ```
+
+### [Lab 15](#)
+#### Assignment NA - 9th December 2021
+```
+Q.1) Write a function to find out largest between n numbers and another functions 
+to count the number of leaders (A number is a leader if all previous numbers are smaller)
+Q.2) Recursive function to find out factorial of a number n
+Q.3) Recursive function to find sum of digits in a k digit number
+Q.4) Recursive function to find out nth fibonacci number
+Q.5) Recursive function to find out gcd of two numbers
+Q.6) Write a program in 'C' to a to the power b using recursive function. 
+Q.7) Write a program in 'C' to find out GCD of 3 numbers using recursive function. 
+Q.8) Write a program in 'C' to generate fibonacci series up to nth term using recursive function.
+```
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
