@@ -348,6 +348,23 @@ Q.6) Write a program in 'C' to a to the power b using recursive function.
 Q.7) Write a program in 'C' to find out GCD of 3 numbers using recursive function. 
 Q.8) Write a program in 'C' to generate fibonacci series up to nth term using recursive function.
 ```
+
+### [Lab 16](#)
+#### Assignment NA - 10th December 2021
+```
+Q.1) Write a program in 'C' to find out area and circumference of a circle using 
+     user-defined function. (With Function Prototype) 
+Q.2) Write a program in 'C' to find average marks obtained by a class of 20 students in a test 
+     and count no. of students scored O Grade (90 and above). 
+Q.3) Write a program in 'C' to search whether an item present in the given array or not. If 
+     present, then display the position.
+Q.4) Write a program in 'C' to find average marks obtained by a class of 20 students in a test 
+     and count no. of students scored O Grade (90 and above). 
+Q.5) Write a program in 'C' to search whether an item present in the given array or not. If 
+     present, then display the position.
+Q.6) Write a program in 'C' to input N integers of an array and find the largest and smallest 
+     elements stored in this array.
+```
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
