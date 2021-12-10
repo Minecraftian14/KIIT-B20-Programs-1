@@ -364,6 +364,9 @@ Q.5) Write a program in 'C' to search whether an item present in the given array
      present, then display the position.
 Q.6) Write a program in 'C' to input N integers of an array and find the largest and smallest 
      elements stored in this array.
+Q.7) Write a program in 'C' to count and print all the even elements and odd elements separately 
+     of the given array with size 'N'.
+Q.8) Write a program in 'C' to print all the elements of the given array of size 'N', which are 3-digits even integers.
 ```
 ---
 
