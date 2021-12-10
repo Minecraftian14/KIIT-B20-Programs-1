@@ -2,7 +2,7 @@
 
 int main(){
     int count=0,n;
-    printf("Enter the limit for input: \n");
+    printf("Enter the limit for input: ");
     scanf("%d",&n);
     int marks[n];
     printf("Enter marks of 20 students \n");
