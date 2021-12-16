@@ -366,6 +366,25 @@ Q.7) Write a program in 'C' to count and print all the even elements and odd ele
      of the given array with size 'N'.
 Q.8) Write a program in 'C' to print all the elements of the given array of size 'N', which are 3-digits even integers.
 ```
+
+### [Lab 17](#)
+#### Assignment NA - 16th December 2021
+```
+Q.1)Program to read (from k/b) and display (matrix format) a 4x5
+    matrix.
+Q.2)Program to find out transpose a matrix of size 4x4.
+Q.3) Twenty numbers are entered from the keyboard into an array. WAP to find
+    out how many of them are positive, how many are negative, how many are
+    even and how many odd.
+Q.4) WAP to multiply a scalar (constant) to matrix of size 3x4
+Q.5) Add two matrix of size 4x4 and 4x4
+Q.6) WAP to find if a square matrix is symmetric.
+Q.7) WAP to copy the contents of one array into another in the reverse order.
+Q.8) The X and Y coordinates of 10 different points are entered through the
+    keyboard. WAP to find the distance of last point from the first point (sum of
+    distance between consecutive points).
+Q.9) WAP to pick up the largest number from any 5 row by 5 column matrix.
+```
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
