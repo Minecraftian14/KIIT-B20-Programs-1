@@ -13,7 +13,7 @@ int main(){
             scanf("%d",&mat[i][j]);
         }
     }
-    for(int i = 0;i<row;i++){
+    for(int i = 0;i<row;i++){ //print matrix
         for(int j = 0;j<col;j++){
             printf("%d , ",mat[i][j]);
         }

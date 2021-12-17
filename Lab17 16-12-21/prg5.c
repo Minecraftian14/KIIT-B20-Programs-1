@@ -1,4 +1,4 @@
-// Scalar mult
+// Add two 4x4 matrices
 #include<stdio.h>
 
 int main(){
@@ -7,13 +7,13 @@ int main(){
     scanf("%d",&row);
     printf("Enter the number of columns: ");
     scanf("%d",&col);
-    if(row!=col){
+    if(row!=col){ //check if square matrix
         printf("Enter a Square Matrix");
     }
     else{
     int mat1[row][col];//initialize matrices
-    int mat2[row][col]; 
-    int mat_add[row][col];
+    int mat2[row][col]; //2nd matrix
+    int mat_add[row][col]; 
     for(int i = 0;i<row;i++){
         for(int j = 0;j<col;j++){
             printf("Enter the value of [%d][%d] for mat1= ",i,j);
@@ -42,7 +42,7 @@ int main(){
         }
         printf("\n");
     }
-    for (int i = 0; i < row; ++i){
+    for (int i = 0; i < row; ++i){ //adding 2 matrices
         for (int j = 0; j < col; ++j) {
         mat_add[i][j] = mat1[i][j]+mat2[i][j];
         } 

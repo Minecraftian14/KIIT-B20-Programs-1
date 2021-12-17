@@ -1,4 +1,4 @@
-#include<stdio.h> //Q1 . 4x5 Matrix
+#include<stdio.h> //Reverse of matrix
 
 int main(){
     int row, col;
@@ -20,7 +20,7 @@ int main(){
         }
         printf("\n");
     }
-    printf("Reverse matrix --->\n");
+    printf("Reverse matrix --->\n"); //Reverse matrix
     for(int i = row-1;i>=0;i--){
         for(int j = col-1;j>=0;j--){
             printf("%d  ",mat[i][j]);

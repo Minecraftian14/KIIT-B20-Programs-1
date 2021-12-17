@@ -1,3 +1,4 @@
+//count positive numbers from 20 numbers
 #include<stdio.h>
 
 int main(){

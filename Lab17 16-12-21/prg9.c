@@ -13,8 +13,8 @@ int main(){
             scanf("%d",&mat[i][j]);
         }
     }
-    int max = 0;
-    for(int i = 0;i<row;i++){
+    int max = mat[0][0];
+    for(int i = 0;i<row;i++){ //Find largest
         for(int j = 0;j<col;j++){
             if(mat[i][j]>max){
                 max = mat[i][j];

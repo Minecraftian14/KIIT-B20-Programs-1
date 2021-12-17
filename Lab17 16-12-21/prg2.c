@@ -2,12 +2,12 @@
 #include<stdio.h>
 
 int main(){
-    int row, col;
+    int row, col; //get dimensions from user
     printf("Enter the number of rows: ");
     scanf("%d",&row);
     printf("Enter the number of columns: ");
     scanf("%d",&col);
-    if(row!=col){
+    if(row!=col){ //checks if its a square matrix
         printf("Enter a Square Matrix");
     }
     else{
@@ -26,7 +26,7 @@ int main(){
         }
         printf("\n");
     }
-    for (int i = 0; i < row; ++i){
+    for (int i = 0; i < row; ++i){ //transpose of matrix
         for (int j = 0; j < col; ++j) {
         transpose[j][i] = mat[i][j];
         } 
@@ -35,10 +35,8 @@ int main(){
     for (int i = 0; i < col; ++i){
         for (int j = 0; j < row; ++j) {
         printf("%d  ", transpose[i][j]);
-        if (j == row - 1){
-            printf("\n");
         }
-        }
+        printf("\n");
     }
     return 0;
     }
