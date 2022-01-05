@@ -292,7 +292,7 @@ Ex. for number 4
     1 4 6 4 1
 ```
 ### [Lab 13](#)
-#### Assignment NA - 2nd December 2021
+#### Assignment 12 - 2nd December 2021
 ```
 Q.1)WAP for a matchstick game being played between the computer and a
     user. Your program should ensure that the computer always wins.
@@ -323,7 +323,7 @@ Q.9)WAP to enter numbers till the user wants and at the end display the
 ```
 
 ### [Lab 14](#)
-#### Assignment NA - 3rd December 2021
+#### Assignment 13 - 3rd December 2021
 ```
 Q.1) Write a function to print "=" n times on the screen.
 Q.2) Write a function to display a character ch, n times on the screen.
@@ -336,7 +336,7 @@ Q.7) Write a program in 'C' to find out 'a' to the power 'b' using user-defined 
 ```
 
 ### [Lab 15](#)
-#### Assignment NA - 9th December 2021
+#### Assignment 14 - 9th December 2021
 ```
 Q.1) Write a function to find out largest between n numbers and another functions 
 to count the number of leaders (A number is a leader if all previous numbers are smaller)
@@ -350,7 +350,7 @@ Q.8) Write a program in 'C' to generate fibonacci series up to nth term using re
 ```
 
 ### [Lab 16](#)
-#### Assignment NA - 10th December 2021
+#### Assignment 15 - 10th December 2021
 ```
 Q.1) Write a program in 'C' to find out area and circumference of a circle using 
      user-defined function. (With Function Prototype) 
@@ -368,7 +368,7 @@ Q.8) Write a program in 'C' to print all the elements of the given array of size
 ```
 
 ### [Lab 17](#)
-#### Assignment NA - 16th December 2021
+#### Assignment 16 - 16th December 2021
 ```
 Q.1)Program to read (from k/b) and display (matrix format) a 4x5
     matrix.

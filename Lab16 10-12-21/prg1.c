@@ -1,4 +1,4 @@
-/*avg marks of 20 students*/
+/*circle*/
 #include<stdio.h>
 
 #define pi 3.14
