@@ -385,6 +385,11 @@ Q.8) The X and Y coordinates of 10 different points are entered through the
     distance between consecutive points).
 Q.9) WAP to pick up the largest number from any 5 row by 5 column matrix.
 ```
+
+### [Lab 18](#)
+#### Combined activity with Lab 17.  
+
+
 ---
 
 <b>○ </b>[This repo will ignore compiled and executable files](https://github.com/HaxnovR/KIIT-B20-Programs/blob/198d4a0812564cde39d713257096e84d70b3868a/.gitignore)
